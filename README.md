@@ -18,3 +18,10 @@
 - **Deployment**: Vercel + GitHub Actions
 
 ## 📂 项目结构
+## 🚀 如何运行本地开发
+
+```bash
+git clone https://github.com/fangyunzhi919/next-chinese-hub.git
+cd next-chinese-hub
+npm install
+npm run dev
